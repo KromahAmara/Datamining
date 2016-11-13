@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 11 18:02:51 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0157-b47b-6ef7-00003c7659b0 
+on database directory C:\Users\Amara\AppData\Local\Temp\spark-0fd0bce0-0761-48dd-9a54-f07d20f24722\metastore with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/C:/spark/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\Amara\Desktop\datamining\datamining\notebooks\nb-CHICAGOCRIMES
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
